@@ -35,15 +35,15 @@ export default function FinalScreen() {
         <div className="bg-card/80 backdrop-blur-md rounded-3xl shadow-xl border border-primary p-8 space-y-1">
           
           <p className="text-lg text-foreground leading-relaxed">
-            There&apos;s something special about a bond where you can share anything and everything. Where there is understanding and laughter comes easy.
+            There&apos;s something special about a bond where you can share anything and everything, where there is understanding and laughter comes easy.
           </p>
 
           <p className="text-lg text-foreground leading-relaxed">
-            Thank you for being someone I can be completely comfortable with. For the conversations that matter, the silly moments, and the quiet understanding between us.
+            Thank you for being someone I can be really comfortable with. For the conversations that matter, the silly moments, and the easy understanding we have.
           </p>
 
           <p className="text-primary font-semibold text-lg pt-2">
-            Here&apos;s to many more shared moments , 5am conversations and a bond that continues to bloom. 🌸
+            Here&apos;s to many more shared moments and 5am conversations . 🫡
           </p>
         </div>
       </div>
